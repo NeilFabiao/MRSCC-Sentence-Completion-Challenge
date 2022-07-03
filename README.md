@@ -8,16 +8,16 @@ In recent years the advancement of AI (artificial intelligence) especially ML (m
 
 Five problems are considered: 
 
-* Size of the dataset - In this coursework Adult income with two main sensitive features race and sex and is the largest dataset with 48842-row instances. The second dataset is German credit data (Statlog) with age, sex and foreign worker as sensitive features. Machine learning models tend to underperform when data avaliability is limited insrespective of the evaluation metrics and type of model. 
+* `Size of the dataset` - In this coursework Adult income with two main sensitive features race and sex and is the largest dataset with 48842-row instances. The second dataset is German credit data (Statlog) with age, sex and foreign worker as sensitive features. Machine learning models tend to underperform when data avaliability is limited insrespective of the evaluation metrics and type of model. 
 
-* Decision Tree classifier - Applying a decision tree classifier on the training folds without sensitive features produced nonbiased fairness scores. However, Certain variables because of the nature of a problem are correlated to the outcome of the solution provided by the ML method. For instance, highly correlated features such as neighbourhood may be a proxy for a sensitive attribute for instance race [5]. 
+* `Decision Tree classifier` - Applying a decision tree classifier on the training folds without sensitive features produced nonbiased fairness scores. However, Certain variables because of the nature of a problem are correlated to the outcome of the solution provided by the ML method. For instance, highly correlated features such as neighbourhood may be a proxy for a sensitive attribute for instance race [5]. 
 
-* Gerry Fair Classifier - produces almost similar results when it comes to the regularization parameter (figure 8 in the appendix of the report). For instance, as the C parameter increases our model is less fair and prioritizes balanced accuracy. On the other hand, for small values of C, the model focuses on fairness. Moreover, as the number of epochs increases, this model tends to better understand the data. The performances of Garry fair and adversarial
+* `Gerry Fair Classifier` - produces almost similar results when it comes to the regularization parameter (figure 8 in the appendix of the report). For instance, as the C parameter increases our model is less fair and prioritizes balanced accuracy. On the other hand, for small values of C, the model focuses on fairness. Moreover, as the number of epochs increases, this model tends to better understand the data. The performances of Garry fair and adversarial
 debiasing are improved after pre and post-processing techniques are applied
 
-* Removing sensitive feature -  Applying a decision tree classifier on the training folds without sensitive features produced nonbiased fairness scores. However, Removing the sensitive feature or known as unawareness is not the best solution. Certain variables because of the nature of a problem are correlated to the outcome of the solution provided by the ML method. For instance, highly correlated features such as neighbourhood may be a proxy for a sensitive attribute for instance race [5].
+* `Removing sensitive feature` -  Applying a decision tree classifier on the training folds without sensitive features produced nonbiased fairness scores. However, Removing the sensitive feature or known as unawareness is not the best solution. Certain variables because of the nature of a problem are correlated to the outcome of the solution provided by the ML method. For instance, highly correlated features such as neighbourhood may be a proxy for a sensitive attribute for instance race [5].
 
-* Beyond binary features - For instance, in the German dataset using the job categorical variable is a protected attribute. With adversarial debiasing, the fairness metrics were favouring the minority with scores ranging from - 0.01 to 0.01. While the accuracy stayed below 0.70 reaching as low as 0.30. Nonetheless, studying the effects of relationship variables on the adult dataset proved to be fruitful. Given the size of the dataset, the accuracy ranged from 0.82 to 0.75 while the fairness score was -0.04 to 0.
+* `Beyond binary features` - For instance, in the German dataset using the job categorical variable is a protected attribute. With adversarial debiasing, the fairness metrics were favouring the minority with scores ranging from - 0.01 to 0.01. While the accuracy stayed below 0.70 reaching as low as 0.30. Nonetheless, studying the effects of relationship variables on the adult dataset proved to be fruitful. Given the size of the dataset, the accuracy ranged from 0.82 to 0.75 while the fairness score was -0.04 to 0.
 
 ### Results ###
 
@@ -54,4 +54,4 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 * Repo owner Neil Fabião -> @neilfabiao ✌🏾
 
-![](https://komarev.com/ghpvc/?username=neiML120&color=red)
+![](https://komarev.com/ghpvc/?username=neilyML120&color=red)
