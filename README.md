@@ -6,8 +6,6 @@ In recent years the advancement of AI (artificial intelligence) especially ML (m
 
 ### Understanding the problem ###
 
-Five problems are considered: 
-
 * `Size of the dataset` - In this coursework Adult income with two main sensitive features race and sex and is the largest dataset with 48842-row instances. The second dataset is German credit data (Statlog) with age, sex and foreign worker as sensitive features. Machine learning models tend to underperform when data avaliability is limited insrespective of the evaluation metrics and type of model. 
 
 * `Decision Tree classifier` - Applying a decision tree classifier on the training folds without sensitive features produced nonbiased fairness scores. However, Certain variables because of the nature of a problem are correlated to the outcome of the solution provided by the ML method. For instance, highly correlated features such as neighbourhood may be a proxy for a sensitive attribute for instance race [5]. 
