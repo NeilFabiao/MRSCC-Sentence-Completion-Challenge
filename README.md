@@ -1,0 +1,2 @@
+# UnbiasedML-tradeoff-main
+🔍In recent years the advancement of AI (artificial intelligence) especially ML (machine learning) has increased automation for tasks in different domains. For instance, Amazon's job recruitment systems demonstrated bias toward female applicants [4]. These challenges inspired the creation of many tools. This repo will investigate some of the techniques used to overcome these challenges. 👨🏽‍🔧
