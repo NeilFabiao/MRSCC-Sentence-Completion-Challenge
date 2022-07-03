@@ -2,9 +2,9 @@
 
 In recent years the advancement of AI (artificial intelligence) especially ML (machine learning) has increased automation for tasks in different domains. For example, recommender systems, student admission and job recruitment. With such has risen the concern for bias and discrimination created by these systems [3]. For instance, in the US nonwhites (Black, Hispanic, and Asian) are more likely to be convicted for a similar crime committed by Caucasian people. Moreover, Amazon's job recruitment systems demonstrated bias toward female applicants [4]. These challenges inspired the creation of many tools. Such as AIF360 from IBM and Ethicml from the University of Sussex. To overcome existing fairness and accuracy controversy.
 
-### Understanding the problem ###
-
 ![alt-text-1](/Project/img/bongo.gif)
+
+### Understanding the problem ###
 
 Five problems are considered: 
 
