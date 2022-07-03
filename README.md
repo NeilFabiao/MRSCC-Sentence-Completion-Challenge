@@ -21,9 +21,9 @@ debiasing are improved after pre and post-processing techniques are applied
 
 ### Results ###
 
-![alt-text-1](/Project/img/res1)
+![alt-text-1](/Project/img/res1.png)
 
-![alt-text-1](/Project/img/res2)
+![alt-text-1](/Project/img/res2.png)
 
 ### Repo structure ###
 
@@ -54,4 +54,4 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 * Repo owner Neil Fabião -> @neilfabiao ✌🏾
 
-![](https://komarev.com/ghpvc/?username=neilDO120&color=blue)
+![](https://komarev.com/ghpvc/?username=neilML120&color=purple)
