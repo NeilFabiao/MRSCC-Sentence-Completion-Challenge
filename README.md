@@ -24,7 +24,7 @@ Five problems are considered:
 
 ![alt-text-1](/Project/img/res2.png)
 
-![alt-text-1](/Project/img/sent1.png)
+![alt-text-1](/Project/img/sent1.png){ width=50% }
 
 
 ### Repo structure ###
