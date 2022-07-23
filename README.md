@@ -20,13 +20,13 @@ Five problems are considered:
 
 ### Results and Visualization ###
 
-![alt-text-1](/Project/img/res1)
+![alt-text-1](/Project/img/res1.png)
 
-![alt-text-1](/Project/img/res2)
+![alt-text-1](/Project/img/res2.png)
 
-![alt-text-1](/Project/img/sent1)
+![alt-text-1](/Project/img/sent1.png)
 
-![alt-text-1](/Project/img/sent2)
+![alt-text-1](/Project/img/sent2.png)
 
 ### Repo structure ###
 
