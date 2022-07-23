@@ -20,9 +20,7 @@ Five problems are considered:
 
 ### Results and Visualization ###
 
-![alt-text-1](/Project/img/res1.png)
-
-![alt-text-1](/Project/img/res2.png)
+<img src=/Project/img/res1.png width="550" />
 
 <img src=/Project/img/sent1.png width="550" />
 
