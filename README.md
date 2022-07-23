@@ -22,7 +22,9 @@ Five problems are considered:
 
 <img src=/Project/img/res1.png width="550" />
 
-<img src=/Project/img/sent1.png width="550" />
+<img src=/Project/img/sent2.png width="550" />
+
+<img src=/Project/img/res3.png width="550" />
 
 
 ### Repo structure ###
@@ -58,4 +60,4 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 * Repo owner Neil Fabião -> @neilfabiao ✌🏾
 
-![](https://komarev.com/ghpvc/?username=neilNLP120&color=blue)
+![](https://komarev.com/ghpvc/?username=neilNLP0120&color=blue)
