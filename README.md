@@ -24,9 +24,8 @@ Five problems are considered:
 
 ![alt-text-1](/Project/img/res2.png)
 
-![alt-text-1](/Project/img/sent1.png =100x20)
+![alt-text-1](/Project/img/sent1.png)
 
-![alt-text-1](/Project/img/sent2.png =100x20)
 
 ### Repo structure ###
 
